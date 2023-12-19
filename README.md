@@ -4,8 +4,10 @@
     base on python 3.10
 # usage
     支持有序与无序两种模式，支持列表，元组，字符串
+    首先，使用pip install iscontain安装
     It supports both ordered and disordered modes
     Types such as list tuple strings are also supported
+    Firstly, you need: pip install iscontain
 ## disorder
 ```python
 from iscontain import iscontain
